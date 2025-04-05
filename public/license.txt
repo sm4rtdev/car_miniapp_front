@@ -1,0 +1,11 @@
+Model Information:
+* title:	Sd.Kfz. 222
+* source:	https://sketchfab.com/3d-models/sdkfz-222-959ff84aa9f34ab4b010acd01df26f9e
+* author:	vmatthew (https://sketchfab.com/vmatthew)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Sd.Kfz. 222" (https://sketchfab.com/3d-models/sdkfz-222-959ff84aa9f34ab4b010acd01df26f9e) by vmatthew (https://sketchfab.com/vmatthew) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
